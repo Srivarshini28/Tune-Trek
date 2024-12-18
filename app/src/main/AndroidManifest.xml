@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.example.murugaaa">
+
+    <application
+        android:allowBackup="true"
+        android:dataExtractionRules="@xml/data_extraction_rules"
+        android:fullBackupContent="@xml/backup_rules"
+        android:icon="@drawable/icon"
+        android:label="TUNE TREK"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.Murugaaa"
+        tools:targetApi="31">
+        <activity
+            android:name=".helpActivity"
+            android:exported="false" />
+        <activity
+            android:name=".aboutActivity"
+            android:exported="false" />
+        <activity
+            android:name=".ussumActivity"
+            android:exported="false" />
+        <activity
+            android:name=".thalliActivity"
+            android:exported="false" />
+        <activity
+            android:name=".darActivity"
+            android:exported="false" />
+        <activity
+            android:name=".ethirActivity"
+            android:exported="false" />
+        <activity
+            android:name=".vilamActivity"
+            android:exported="false" />
+        <activity
+            android:name=".vaadiActivity"
+            android:exported="false" />
+        <activity
+            android:name=".hiphopActivity"
+            android:exported="false" />
+        <activity
+            android:name=".taxiActivity"
+            android:exported="false" />
+        <activity
+            android:name=".nallaActivity"
+            android:exported="false" />
+        <activity
+            android:name=".yeleActivity"
+            android:exported="false" />
+        <activity
+            android:name=".yenActivity"
+            android:exported="false" />
+        <activity
+            android:name=".kaatuActivity"
+            android:exported="false" />
+        <activity
+            android:name=".mustafaActivity"
+            android:exported="false" />
+        <activity
+            android:name=".friendActivity"
+            android:exported="false" />
+        <activity
+            android:name=".tumtakActivity"
+            android:exported="false" />
+        <activity
+            android:name=".lmaniActivity"
+            android:exported="false" />
+        <activity
+            android:name=".raanjActivity"
+            android:exported="false" />
+        <activity
+            android:name=".snehActivity"
+            android:exported="false" />
+        <activity
+            android:name=".palActivity"
+            android:exported="false" />
+        <activity
+            android:name=".unakulActivity"
+            android:exported="false" />
+        <activity
+            android:name=".lofiActivity"
+            android:exported="false" />
+        <activity
+            android:name=".manActivity"
+            android:exported="false" />
+        <activity
+            android:name=".potuActivity"
+            android:exported="false" />
+        <activity
+            android:name=".uchiActivity"
+            android:exported="false" />
+        <activity
+            android:name=".localActivity"
+            android:exported="false" />
+        <activity
+            android:name=".kaneeActivity"
+            android:exported="false" />
+        <activity
+            android:name=".naakuActivity"
+            android:exported="false" />
+        <activity
+            android:name=".rockActivity"
+            android:exported="false" />
+        <activity
+            android:name=".kuruActivity"
+            android:exported="false" />
+        <activity
+            android:name=".kanmaniActivity"
+            android:exported="false" />
+        <activity
+            android:name=".munbeActivity"
+            android:exported="false" />
+        <activity
+            android:name=".kanActivity"
+            android:exported="false" />
+        <activity
+            android:name=".idhazhinActivity"
+            android:exported="false" />
+        <activity
+            android:name=".neekaviActivity"
+            android:exported="false" />
+        <activity
+            android:name=".melodyActivity"
+            android:exported="false" />
+        <activity
+            android:name=".runActivity"
+            android:exported="false" />
+        <activity
+            android:name=".thatActivity"
+            android:exported="false" />
+        <activity
+            android:name=".idolActivity"
+            android:exported="false" />
+        <activity
+            android:name=".dynaActivity"
+            android:exported="false" />
+        <activity
+            android:name=".fiftyActivity"
+            android:exported="false" />
+        <activity
+            android:name=".mikroActivity"
+            android:exported="false" />
+        <activity
+            android:name=".kpopActivity"
+            android:exported="false" />
+        <activity
+            android:name=".login"
+            android:exported="false"
+            android:windowSoftInputMode="adjustResize" />
+        <activity
+            android:name=".danceActivity"
+            android:exported="false" />
+        <activity
+            android:name=".sareActivity"
+            android:exported="false" />
+        <activity
+            android:name=".thujActivity"
+            android:exported="false" />
+        <activity
+            android:name=".agarActivity"
+            android:exported="false" />
+        <activity
+            android:name=".lungiActivity"
+            android:exported="false" />
+        <activity
+            android:name=".tumActivity"
+            android:exported="false" />
+        <activity
+            android:name=".HindiListActivity"
+            android:exported="false" />
+        <activity
+            android:name=".buttaActivity"
+            android:exported="false" />
+        <activity
+            android:name=".samaActivity"
+            android:exported="false" />
+        <activity
+            android:name=".araActivity"
+            android:exported="false" />
+        <activity
+            android:name=".vachActivity"
+            android:exported="false" />
+        <activity
+            android:name=".kurchiActivity"
+            android:exported="false" />
+        <activity
+            android:name=".inkemActivity"
+            android:exported="false" />
+        <activity
+            android:name=".TeluguListActivity"
+            android:exported="false" />
+        <activity
+            android:name=".malareActivity"
+            android:exported="false" />
+        <activity
+            android:name=".kudukkuActivity"
+            android:exported="false" />
+        <activity
+            android:name=".neelaActivity"
+            android:exported="false" />
+        <activity
+            android:name=".onakkaActivity"
+            android:exported="false" />
+        <activity
+            android:name=".jimikiActivity"
+            android:exported="false" />
+        <activity
+            android:name=".dharshanaActivity"
+            android:exported="false" />
+        <activity
+            android:name=".MalayalamListActivity"
+            android:exported="false" />
+        <activity
+            android:name=".rewriteActivity"
+            android:exported="false" />
+        <activity
+            android:name=".loverActivity"
+            android:exported="false" />
+        <activity
+            android:name=".heatwavesActivity"
+            android:exported="false" />
+        <activity
+            android:name=".dandelionsActivity"
+            android:exported="false" />
+        <activity
+            android:name=".closerActivity"
+            android:exported="false" />
+        <activity
+            android:name=".babyActivity"
+            android:exported="false" />
+        <activity
+            android:name=".EnglishListActivity"
+            android:exported="false" />
+        <activity
+            android:name=".manipayaActivity"
+            android:exported="false" />
+        <activity
+            android:name=".avalActivity"
+            android:exported="false" />
+        <activity
+            android:name=".ondraRendaActivity"
+            android:exported="false" />
+        <activity
+            android:name=".uyirin_uyireActivity"
+            android:exported="false" />
+        <activity
+            android:name=".vizhiMoodiActivity"
+            android:exported="false" />
+        <activity
+            android:name=".urugi"
+            android:exported="false" />
+        <activity
+            android:name=".TamilListActivity"
+            android:exported="false" />
+        <activity
+            android:name=".HomeActivity"
+            android:exported="false" />
+        <activity
+            android:name=".signupActivity"
+            android:exported="false"
+            android:windowSoftInputMode="adjustResize" />
+        <activity
+            android:name=".SplashScreenActivity"
+            android:exported="true"
+            android:theme="@style/Theme.AppCompat.NoActionBar">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>
